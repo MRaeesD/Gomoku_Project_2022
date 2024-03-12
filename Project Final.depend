@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1653835183 source:c:\users\mraee\documents\project final\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<fstream>
+	<windows.h>
+	"gomoku.h"
+
+1653840726 c:\users\mraee\documents\project final\gomoku.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<fstream>
+	"gomoku.h"
+
